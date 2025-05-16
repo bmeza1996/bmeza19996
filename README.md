@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[computer science]** with experience in **[intro]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **computer science** with experience in **intro**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **coding**
 - 🔭 Working on: **graduating college**
