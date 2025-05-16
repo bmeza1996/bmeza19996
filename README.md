@@ -1,6 +1,6 @@
 # Hi there, I'm Bano Miguel Meza! 👋
-
-![f9db7c6e987eb1dab6d818753802771b](https://github.com/user-attachments/assets/81410976-5b5b-4b19-ae59-2a576cbdfc20)
+![giphy](https://github.com/user-attachments/assets/555770c6-eda4-4704-aae6-9f84348cd74a)
+fc20)
 
 ## About Me 🚀
 
