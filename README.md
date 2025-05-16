@@ -38,8 +38,8 @@ I'm a passionate **[computer science]** with experience in **[intro]**. I love t
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[FaceBook]**(Bano Miguel Meza)
+- **[Instagram]**(Mr.allbarkbigbite)
+- **[TikTok]**(lil.oeste760)
 
 
