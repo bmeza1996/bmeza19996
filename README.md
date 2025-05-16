@@ -1,6 +1,6 @@
 # Hi there, I'm [Bano Miguel Meza]! 👋
 
-[![Banner Image]M![image](https://github.com/user-attachments/assets/46d5dd56-24ad-4cad-b623-665da70c49c7)
+[![Banner Image]![f9db7c6e987eb1dab6d818753802771b](https://github.com/user-attachments/assets/81410976-5b5b-4b19-ae59-2a576cbdfc20)
 
 ## About Me 🚀
 
