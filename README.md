@@ -6,11 +6,11 @@
 
 I'm a passionate **[computer science]** with experience in **[intro]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **coding]**
-- 🔭 Working on: **[graduating college**
-- 🌍 Languages: **[english,spanish,& intro to coding**
-- 📫 How to reach me: **[banomeza96@yahoo.com**
-- ⚡ Fun fact: **[I love sports all time favs are football,basketball,and baseball]**
+- 🌱 Currently learning: **coding**
+- 🔭 Working on: **graduating college**
+- 🌍 Languages: **english,spanish,& intro to coding**
+- 📫 How to reach me: **banomeza96@yahoo.com**
+- ⚡ Fun fact: **I love sports all time favs are football,basketball,and baseball**
 
 ## My Skills Intro
 
@@ -38,8 +38,8 @@ I'm a passionate **[computer science]** with experience in **[intro]**. I love t
 
 ## Get in Touch 📬
 
-- **[FaceBook]**(Bano Miguel Meza)
-- **[Instagram]**(Mr.allbarkbigbite)
-- **[TikTok]**(lil.oeste760)
+- **FaceBook**(Bano Miguel Meza)
+- **Instagram**(Mr.allbarkbigbite)
+- **TikTok**(lil.oeste760)
 
 
