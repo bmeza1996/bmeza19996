@@ -1,4 +1,4 @@
-# Hi there, I'm [Bano Miguel Meza]! 👋
+# Hi there, I'm Bano Miguel Meza! 👋
 
 ![f9db7c6e987eb1dab6d818753802771b](https://github.com/user-attachments/assets/81410976-5b5b-4b19-ae59-2a576cbdfc20)
 
@@ -6,10 +6,10 @@
 
 I'm a passionate **[computer science]** with experience in **[intro]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[coding]**
-- 🔭 Working on: **[graduating college]**
-- 🌍 Languages: **[english,spanish,& intro to coding]**
-- 📫 How to reach me: **[banomeza96@yahoo.com]**
+- 🌱 Currently learning: **coding]**
+- 🔭 Working on: **[graduating college**
+- 🌍 Languages: **[english,spanish,& intro to coding**
+- 📫 How to reach me: **[banomeza96@yahoo.com**
 - ⚡ Fun fact: **[I love sports all time favs are football,basketball,and baseball]**
 
 ## My Skills Intro
