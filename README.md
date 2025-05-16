@@ -1,6 +1,6 @@
 # Hi there, I'm [Bano Miguel Meza]! 👋
 
-[![Banner Image](your_banner_image_url_here)](https://www.google.com/search?q=dallas+cowboys+old+school+logo&sca_esv=2958ba21f9e34b9e&rlz=1C5MACD_enUS1131US1131&udm=2&sxsrf=AHTn8zpIeyz0Lx1m4GwCPifkdyQbsz7NtA:1747369763866&source=lnt&tbs=isz:l&sa=X&ved=2ahUKEwiT-sPQk6eNAxXONEQIHZ_ZLcAQpwV6BAgCEAc&biw=1415&bih=663&dpr=1#vhid=1ua9pZFEo6BYpM&vssid=mosaic)
+[![Banner Image]Screen Shot 2025-04-15 at 11.39.07 AM![image](https://github.com/user-attachments/assets/46d5dd56-24ad-4cad-b623-665da70c49c7)
 
 ## About Me 🚀
 
